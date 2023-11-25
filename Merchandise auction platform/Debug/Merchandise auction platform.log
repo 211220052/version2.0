@@ -1,0 +1,7 @@
+﻿  Administrator.cpp
+  User.cpp
+C:\Users\lenovo\source\repos\Merchandise auction platform\User.cpp(54,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+C:\Users\lenovo\source\repos\Merchandise auction platform\User.cpp(335): warning C4715: “User::Buy_product”: 不是所有的控件路径都返回值
+C:\Users\lenovo\source\repos\Merchandise auction platform\User.cpp(414): warning C4715: “User::Modify_PIMinformation”: 不是所有的控件路径都返回值
+  Merchandise auction platform.vcxproj -> C:\Users\lenovo\source\repos\Merchandise auction platform\Debug\Merchandise auction platform.exe
